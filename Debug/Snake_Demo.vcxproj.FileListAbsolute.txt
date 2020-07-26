@@ -1,0 +1,2 @@
+C:\Users\Parzival\source\repos\Snake_Demo\Debug\Snake_Demo.exe
+C:\Users\Parzival\source\repos\Snake_Demo\Debug\Snake_Demo.pdb
